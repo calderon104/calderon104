@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @calderon104
-- 👀 I’m interested in games, stuffs
-- 🌱 I’m currently learning how to programming
-- 💞️ I’m looking to collaborate on nothing at the moment.
-- 📫 How to reach me: teach me or make me laught
+- 👀 I’m interested in :)
+- 🌱 I’m currently learning :D
+- 💞️ I’m looking to collaborate :)
+- 📫 How to reach me: :D
 
 <!---
 calderon104/calderon104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
